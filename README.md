@@ -32,4 +32,4 @@ Here is my current progress through the problems on the website:
 - [ ] Regular Expressions
 - [ ] Special Commands sed,awk,grep,sort
 
-*(Note: The checkboxes above will be checked off as I complete the lessons!)*
+*(Note: I will check off the checkboxes as I complete the lessons.)*
