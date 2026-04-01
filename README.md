@@ -12,7 +12,7 @@ Here is my current progress through the problems on the website:
 
 ### Learn the Basics
 - [x] Hello, World!
-- [ ] Variables
+- [x] Variables
 - [ ] Passing Arguments to the Script
 - [ ] Arrays
 - [ ] Basic Operators
