@@ -1,2 +1,2 @@
 # LearnBash
-Personal repository for my scripts from "learnshell.org".
+A personal repository for my shell scripts from "learnshell.org".
