@@ -8,7 +8,7 @@ With a cybersecurity internship coming up, I figured it was the perfect time to 
 
 ## Course Progress
 
-Here is my current progress through the core curriculum:
+Here is my current progress through the problems on the website:
 
 ### Learn the Basics
 - [x] Hello, World!
