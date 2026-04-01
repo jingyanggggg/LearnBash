@@ -4,7 +4,7 @@ Welcome to my Bash scripting repository. This project tracks my progress and sto
 
 ## About The Project
 
-With a cybersecurity internship coming up, I figured it was the perfect time to polish my skills and dive into Bash scripting! I started this repo to get hands-on practice writing scripts straight from the terminal using `nano`, while also getting comfortable with Git and GitHub workflows. Most importantly, it's helping me build a deeper understanding of Bash.
+With a cybersecurity internship coming up, I figured it was the perfect time to polish my skills and dive into Bash scripting. I started this repo to get hands-on practice writing scripts straight from the terminal using `nano`, while also getting comfortable with Git and GitHub workflows. Most importantly, it's helping me build a deeper understanding of Bash.
 
 ## Course Progress
 
