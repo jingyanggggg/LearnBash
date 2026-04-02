@@ -14,8 +14,8 @@ Here is my current progress through the problems on the website:
 - [x] Hello, World!
 - [x] Variables
 - [x] Passing Arguments to the Script
-- [ ] Arrays
-- [ ] Basic Operators
+- [x] Arrays
+- [x] Basic Operators
 - [ ] Basic String Operations
 - [ ] Decision Making
 - [ ] Loops
