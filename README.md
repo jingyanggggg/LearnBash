@@ -19,7 +19,7 @@ Here is my current progress through the problems on the website:
 - [x] Basic String Operations
 - [x] Decision Making
 - [x] Loops
-- [ ] Array-Comparison
+- [x] Array-Comparison
 - [ ] Shell Functions
 
 ### Advanced Tutorials
