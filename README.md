@@ -18,7 +18,7 @@ Here is my current progress through the problems on the website:
 - [x] Basic Operators
 - [x] Basic String Operations
 - [x] Decision Making
-- [ ] Loops
+- [x] Loops
 - [ ] Array-Comparison
 - [ ] Shell Functions
 
