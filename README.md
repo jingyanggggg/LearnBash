@@ -23,7 +23,7 @@ Here is my current progress through the problems on the website:
 - [x] Shell Functions
 
 ### Advanced Tutorials
-- [ ] Special Variables
+- [x] Special Variables
 - [ ] Bash trap command
 - [ ] File Testing
 - [ ] Input Parameter Parsing
