@@ -20,7 +20,7 @@ Here is my current progress through the problems on the website:
 - [x] Decision Making
 - [x] Loops
 - [x] Array-Comparison
-- [ ] Shell Functions
+- [x] Shell Functions
 
 ### Advanced Tutorials
 - [ ] Special Variables
