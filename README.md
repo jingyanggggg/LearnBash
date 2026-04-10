@@ -24,7 +24,7 @@ Here is my current progress through the problems on the website:
 
 ### Advanced Tutorials
 - [x] Special Variables
-- [ ] Bash trap command
+- [x] Bash trap command
 - [ ] File Testing
 - [ ] Input Parameter Parsing
 - [ ] Pipelines
