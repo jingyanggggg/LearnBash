@@ -27,7 +27,7 @@ Here is my current progress through the problems on the website:
 - [x] Bash trap command
 - [x] File Testing
 - [x] Input Parameter Parsing (No Tutorial Yet)
-- [ ] Pipelines
+- [x] Pipelines
 - [ ] Process Substitution
 - [ ] Regular Expressions
 - [ ] Special Commands sed,awk,grep,sort
