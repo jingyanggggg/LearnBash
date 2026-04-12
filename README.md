@@ -28,7 +28,7 @@ Here is my current progress through the problems on the website:
 - [x] File Testing
 - [x] Input Parameter Parsing (No Tutorial Yet)
 - [x] Pipelines
-- [ ] Process Substitution
+- [x] Process Substitution
 - [ ] Regular Expressions
 - [ ] Special Commands sed,awk,grep,sort
 
