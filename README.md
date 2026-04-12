@@ -30,6 +30,6 @@ Here is my current progress through the problems on the website:
 - [x] Pipelines
 - [x] Process Substitution
 - [x] Regular Expressions
-- [ ] Special Commands sed,awk,grep,sort
+- [x] Special Commands sed,awk,grep,sort
 
 *(Note: Some problems under "Advanced Tutorials" do not have exercises, so I replaced them with my own practice code instead.)*
