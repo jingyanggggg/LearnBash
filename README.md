@@ -26,7 +26,7 @@ Here is my current progress through the problems on the website:
 - [x] Special Variables
 - [x] Bash trap command
 - [x] File Testing
-- [ ] Input Parameter Parsing
+- [x] Input Parameter Parsing (No Tutorial Yet)
 - [ ] Pipelines
 - [ ] Process Substitution
 - [ ] Regular Expressions
