@@ -29,7 +29,7 @@ Here is my current progress through the problems on the website:
 - [x] Input Parameter Parsing (No Tutorial Yet)
 - [x] Pipelines
 - [x] Process Substitution
-- [ ] Regular Expressions
+- [x] Regular Expressions
 - [ ] Special Commands sed,awk,grep,sort
 
 *(Note: Some problems under "Advanced Tutorials" do not have exercises, so I replaced them with my own practice code instead.)*
