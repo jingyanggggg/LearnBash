@@ -25,7 +25,7 @@ Here is my current progress through the problems on the website:
 ### Advanced Tutorials
 - [x] Special Variables
 - [x] Bash trap command
-- [ ] File Testing
+- [x] File Testing
 - [ ] Input Parameter Parsing
 - [ ] Pipelines
 - [ ] Process Substitution
